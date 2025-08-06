@@ -23,7 +23,7 @@ The dataset consists of 16 fruit classes, with each class containing 100 trainin
 ## Exploratory Data Analysis
 Sample images:
 
-![image](https://github.com/alicelinh/fruit-classification/blob/main/sample%20fruits.png?raw=true)
+![image](https://media.githubusercontent.com/media/alicelinh/fruit-classification/main/sample%20fruits.png)
 
 
 ## Convolutional Neural Networks Models
