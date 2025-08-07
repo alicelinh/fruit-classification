@@ -47,7 +47,13 @@ All models are compiled with the `Adam` optimizer and `CategoricalCrossentropy` 
 
 
 ## Results
+Results after training:
 
+![image](https://media.githubusercontent.com/media/alicelinh/fruit-classification/main/results%20after%20training.png)
+
+DenseNet121 achieves the highest accuracy, exceeding 90%, followed by MobileNetV2 with 86% accuracy. VGG16 performs only slightly better than random guessing, with an accuracy of 56%. ResNet50 performs the worst, with an accuracy of just 5%, indicating it fails to make meaningful predictions.
+
+Results after fine-tuning:
 
 
 
