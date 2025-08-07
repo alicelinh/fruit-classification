@@ -8,6 +8,7 @@ Fruit classification using computer vision has practical applications in agricul
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Table of Contents](#table-of-contents)
 - [Data](#data)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Convolutional Neural Networks Models](#convolutional-neural-networks-models)
