@@ -55,16 +55,6 @@ DenseNet121 achieves the highest accuracy, exceeding 90%, followed by MobileNetV
 
 Results after fine-tuning:
 
+![image](https://media.githubusercontent.com/media/alicelinh/fruit-classification/main/results%20after%20tuning.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+After fine-tuning, DenseNet121 achieved an accuracy of 93%, demonstrating strong performance in fruit classification.
